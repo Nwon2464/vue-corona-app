@@ -1,6 +1,6 @@
 <template>
   <div>Hello World</div>
-  <div>hiasdfasfasdasdffasf</div>
+  <div>hiasdfasfasdasdfafasdasdffasf</div>
 </template>
 
 <script>
